@@ -20,6 +20,6 @@ pip install -r requirements.txt
 localhost/docs
 
 Hit the GET api, gives you the random country
-Guess via the POST api, gives you if its correct or returns with the correct capital.
+Guess the capital via the POST api, gives you the result if its correct or returns with the correct capital.
 
 
