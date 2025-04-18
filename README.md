@@ -1,13 +1,14 @@
 # sam_api
 Please follow the readme file.
 
+Get into the folder <b>sam_api</b>
+
 <h3>Install requirements.txt by the command:</h3>
 
 pip install -r requirements.txt
 
-Get into the folder <b>sam_api</b>
 
-<b>Run the command: </b>
+<h4><b>Run the command: </b></h4>
 
  uvicorn capitals:app --reload
 
